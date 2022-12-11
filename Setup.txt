@@ -1,0 +1,24 @@
+Config:
+licensekey: "your key"
+rpc-url: "rpc url"
+main_wallet: "main solana wallet address
+priv: "private key that corrosponds with main_wallet"
+-------------------------------------------------------
+pub.txt:
+format is the following
+wallet1pubkey
+wallet2pubkey
+wallet3pubkey
+etc
+oner per line
+no whitespaces
+-------------------------------------------------------
+subwallets:
+format is the following
+nickname,publickey
+one per line
+no whitespaces
+-------------------------------------------------------
+Transaction:
+Leave Empty, never touch this
+

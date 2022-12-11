@@ -1,0 +1,2 @@
+nickname,walletaddress
+nickname,walletaddress

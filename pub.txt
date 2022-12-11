@@ -1,0 +1,4 @@
+walletaddress1
+walletaddress2
+walletaddress3
+walletaddress4

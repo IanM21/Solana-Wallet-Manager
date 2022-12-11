@@ -1,0 +1,6 @@
+{
+    "license": "license-key",
+    "rpc": "https://api.mainnet-beta.solana.com",
+    "main_wallet": "public wallet address",
+    "privkey": "private key for wallet above^"
+}
