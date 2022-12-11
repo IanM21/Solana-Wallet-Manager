@@ -1,5 +1,6 @@
 # Solana-Wallet-Manager
 Solana Wallet Manager (Cozy Tools)
+### ps. sorry for the messy code, unsure if this works still or not. 
 
 ## Files Needed:
 * pub.txt
